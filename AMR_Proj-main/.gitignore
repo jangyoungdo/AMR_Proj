@@ -1,0 +1,56 @@
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionides
+.metadata
+
+# Ignore build directories
+com_proj/dev_src_0708/build/
+Proj/dev/build/
+Proj/dev-0716/build/
+Proj/dev-last/build/
+Proj/etc/touch_gui/gui/build/
+
+# Ignore install directories
+com_proj/dev_src_0708/install/
+Proj/dev/install/
+Proj/dev-0716/install/
+Proj/dev-last/install/
+Proj/etc/touch_gui/gui/install/
+
+# Ignore log directories
+.log
+Proj/dev-last/log/
+Proj/dev/log/
+Proj/dev-0716/log/
+com_proj/dev_src_0708/log/
+Proj/etc/touch_gui/gui/log/
+
+# Ignore specific directories within the project
+Proj/dev/ds4_driver/
+Proj/dev/ds4drv/
+Proj/driver/YDLidar-SDK/
+Proj/etc/agent_ws/
+Proj/etc/MicroRos_14/
+Proj/etc/stella_ahrs/
+
+# Ignore temporary or cache files
+*.pyc
+__pycache__/
+
+# Ignore metadata directories
+com_proj/Micro_Ros_versions/Versions/.metadata/
