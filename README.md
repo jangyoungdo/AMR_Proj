@@ -84,11 +84,14 @@
 이 프로젝트에서 제가 맡은 업무입니다.
 
 1. H/W 설계 및 URDF
+
 ![image](https://github.com/user-attachments/assets/a9a81759-343a-4c0e-8bad-05651194df57)
 ![image](https://github.com/user-attachments/assets/ad747644-300e-44e9-8470-79676c6da30d)
 
 2. 전장 작업
+
 ![image](https://github.com/user-attachments/assets/f1cae6b3-2fe2-438e-980d-20ea26116f92)
 
 3. 센서 인터페이스 및 리프트 제어
+
 ![image](https://github.com/user-attachments/assets/997ebd93-cd6b-4629-b7fd-1d3295c5a6c1)
