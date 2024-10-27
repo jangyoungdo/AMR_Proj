@@ -8,14 +8,12 @@
 - [하드웨어](#하드웨어)
 
 ---
-## 사진   
-<img src="https://github.com/JJo-0/JJo-0.github.io/blob/main/image/AMR_.png?raw=true" alt="drawing" style="width:200px;"/>
 
 ## 프로젝트 정보
 
 |프로젝트| 설명 | 기타 |
 |:---|:---:| ---:|
-| 프로젝트 기간| 2023.05.01 ~ | (#아이디어-기획) |
+| 프로젝트 기간| 2023.05.01 ~ 2024.09.28| (#아이디어-기획) |
 | 프로젝트 성격 | 캡스톤디자인(졸업작품) | |
 | 개발 인원 | 팀 / 4명 | [박지호](https://github.com/JJo-0), [이건원](https://github.com/leegunwon), <br> [조성우](https://github.com/), [장영도](https://github.com/) |
 | 하드웨어 | raspberry pi 5, mdrobot 등.. [링크](##하드웨어) | |
