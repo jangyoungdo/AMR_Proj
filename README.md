@@ -85,17 +85,25 @@
 
 0. Project Leader
 - 프로젝트 일정 관리
+- 프로젝트 주제 선정
 - 공문서 제작 및 자재 주문 관리
 - 팀원 메탈 케어
 
 1. H/W 설계 및 URDF 제작
+- 시뮬레이션 내에서 적용할 물리 변수를 포함한 3D 모델 yaml파일 제작
+- 인벤터, 블랜더 활용
 
 ![image](https://github.com/user-attachments/assets/ad747644-300e-44e9-8470-79676c6da30d)
 
 2. 전장 작업
+- 릴레이 스위치를 활용한 안전한 배터리 활용 기능 설계
+- 전력 계산 및 회로 구성
 
 ![image](https://github.com/user-attachments/assets/f1cae6b3-2fe2-438e-980d-20ea26116f92)
 
 3. 센서 인터페이스 및 리프트 제어
+- 장애물에 대한 응답이기에 실시간성 중요하다 판단
+- RTOS를 활용한 Task로 최대한 실시간 반응 구현
+- H - Bridge 회로와 초음파 센서를 통한 거리 피드백으로 작업 편의성 증대대
 
 ![image](https://github.com/user-attachments/assets/997ebd93-cd6b-4629-b7fd-1d3295c5a6c1)
