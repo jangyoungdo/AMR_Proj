@@ -85,7 +85,6 @@
 
 1. H/W 설계 및 URDF
 
-![image](https://github.com/user-attachments/assets/a9a81759-343a-4c0e-8bad-05651194df57)
 ![image](https://github.com/user-attachments/assets/ad747644-300e-44e9-8470-79676c6da30d)
 
 2. 전장 작업
