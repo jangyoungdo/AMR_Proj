@@ -8,6 +8,10 @@
 - [하드웨어](#하드웨어)
 
 ---
+## 완성 사진
+
+![AMR](https://github.com/user-attachments/assets/77dc6605-6a2b-4b24-8758-3f15451ee303)
+---
 
 ## 프로젝트 정보
 
@@ -39,7 +43,7 @@
 | x86_64 | [ros_foxy image](https://hub.docker.com/_/ros) |ros 공식 지원 image, (ros)|
    
    
-bash
+---
 
 
 
