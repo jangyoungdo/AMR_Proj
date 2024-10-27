@@ -19,14 +19,6 @@
 | 하드웨어 | raspberry pi 5, mdrobot 등.. [링크](##하드웨어) | |
 
 
-## 설치 방법 안내
-
-AMR 자율주행을 하고 싶으면 따라하시면 됩니다.
-```bash
-git clone https://github.com/JJo-0/AMR_Proj.git
-
-cd AMR_Proj
-```
    
 쓰는 cpu 버전에 따라서 달라진다.  
 사용 및 검증 버전   
