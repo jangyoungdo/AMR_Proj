@@ -1,4 +1,5 @@
 ## 프로젝트 개요
+  - 중소공장의 협소한 실내 공간 내에서 빈번하게 변화하는 레이아웃에 능동적으로 반응할 수 있는 AMR 프로젝트 
 
 ### 목차
 - [프로젝트 개요](#프로젝트-개요)
@@ -20,7 +21,7 @@
 |:---|:---:| ---:|
 | 프로젝트 기간| 2023.05.01 ~ 2024.09.28| (#아이디어-기획) |
 | 프로젝트 성격 | 캡스톤디자인(졸업작품) | |
-| 개발 인원 | 팀 / 4명 | [장영도](https://github.com/jangyoungdo), [박지호](https://github.com/JJo-0), <br> [이건원](https://github.com/leegunwon), [조성우](https://github.com/) |
+| 개발 인원 | 팀 / 4명 | [장영도](https://github.com/jangyoungdo), [박지호](https://github.com/JJo-0), [이건원](https://github.com/leegunwon), [조성우](https://github.com/) |
 | 하드웨어 | raspberry pi 5, mdrobot 등.. [링크](##하드웨어) | |
 
 
@@ -84,26 +85,26 @@
 이 프로젝트에서 제가 맡은 업무입니다.
 
 0. Project Leader
-- 프로젝트 일정 관리
-- 프로젝트 주제 선정
-- 공문서 제작 및 자재 주문 관리
-- 팀원 메탈 케어
+  - 프로젝트 일정 관리
+  - 프로젝트 주제 선정
+  - 공문서 제작 및 자재 주문 관리
+  - 팀원 메탈 케어
 
 1. H/W 설계 및 URDF 제작
-- 시뮬레이션 내에서 적용할 물리 변수를 포함한 3D 모델 yaml파일 제작
-- 인벤터, 블랜더 활용
+  - 시뮬레이션 내에서 적용할 물리 변수를 포함한 3D 모델 yaml파일 제작
+  - 인벤터, 블랜더 활용
 
 ![image](https://github.com/user-attachments/assets/ad747644-300e-44e9-8470-79676c6da30d)
 
 2. 전장 작업
-- 릴레이 스위치를 활용한 안전한 배터리 활용 기능 설계
-- 전력 계산 및 회로 구성
+  - 릴레이 스위치를 활용한 안전한 배터리 활용 기능 설계
+  - 전력 계산 및 회로 구성
 
 ![image](https://github.com/user-attachments/assets/f1cae6b3-2fe2-438e-980d-20ea26116f92)
 
 3. 센서 인터페이스 및 리프트 제어
-- 장애물에 대한 응답이기에 실시간성 중요하다 판단
-- RTOS를 활용한 Task로 최대한 실시간 반응 구현
-- H - Bridge 회로와 초음파 센서를 통한 거리 피드백으로 작업 편의성 증대대
+  - 장애물에 대한 응답이기에 실시간성 중요하다 판단
+  - RTOS를 활용한 Task로 최대한 실시간 반응 구현
+  - H - Bridge 회로와 초음파 센서를 통한 거리 피드백으로 작업 편의성 증대
 
 ![image](https://github.com/user-attachments/assets/997ebd93-cd6b-4629-b7fd-1d3295c5a6c1)
